@@ -78,8 +78,8 @@ Project ini dibuat berdasarkan ketentuan tes sebagai berikut:
 
 ## Cara Menjalankan dengan Docker
 1. Clone repository
-    git clone https://github.com/username/inventory-api-docker.git
-    cd inventory-api-docker
+    git clone https://github.com/alfishlhdn/test-laravel.git
+    cd test-laravel
 2. Copy dan edit environment
     cp .env.example .env , Edit bagian .env jika perlu (misal untuk koneksi database):
 3. Build dan jalankan container
